@@ -1,0 +1,11 @@
+
+scrapper/__pycache__/
+scrapper/.env
+
+scrapper-fe/node_modules/
+
+scrapper-fe/public/
+
+
+scrapper-fe/.env
+scrapper-fe/tailwind.config.js
